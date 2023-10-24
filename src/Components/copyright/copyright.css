@@ -1,0 +1,12 @@
+h4{
+    color: white;
+    font-weight: 450;
+}
+.copyright-container{
+    background-color: rgb(39, 41, 45);
+    text-align: center;
+    padding: 30px;
+}
+.copyright-image{
+    height: 16px;
+}
